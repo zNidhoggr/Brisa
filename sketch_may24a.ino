@@ -4,8 +4,8 @@
 #include <Time.h>
 
 #ifndef STASSID
-#define STASSID "GoodPlace"
-#define STAPSK "pedrinho"
+#define STASSID "wifi"
+#define STAPSK "password"
 #endif
 
 const char* ssid = STASSID;
